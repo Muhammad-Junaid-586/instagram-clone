@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.storeis-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.leftSidePart::-webkit-scrollbar {
+  display: none;
+}
